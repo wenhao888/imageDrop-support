@@ -25,6 +25,8 @@ Install and launch imageDrop Bridge on your Mac. It runs in the macOS menu bar a
 3. Follow the pairing instructions displayed by the application.
 4. Complete the pairing process on your iPhone.
 
+![The imageDrop Bridge Admin Devices page, showing a pairing QR code with a New pairing code button and a waiting iPhone request with Approve and Reject buttons](images/pairing.png)
+
 ### 4. Start transferring files
 
 Once paired, you can use imageDrop on your iPhone to scan documents, capture photos, and transfer supported files to your Mac.

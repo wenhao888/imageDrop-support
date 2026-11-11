@@ -15,6 +15,7 @@ Download imageDrop from the Apple App Store and open the application.
 ### 2. Install imageDrop Bridge on your Mac
 
 Install and launch imageDrop Bridge on your Mac. It runs in the macOS menu bar and provides the connection service for receiving files.
+Files are stored locally in the Mac.
 
 ![The imageDrop Bridge menu open in the macOS menu bar, showing Open Admin Page, Pair iPhone, Stop Server and Open Uploads Folder](images/mac_menubar.png)
 
@@ -26,6 +27,8 @@ Install and launch imageDrop Bridge on your Mac. It runs in the macOS menu bar a
 4. Complete the pairing process on your iPhone.
 
 ![The imageDrop Bridge Admin Devices page, showing a pairing QR code with a New pairing code button and a waiting iPhone request with Approve and Reject buttons](images/pairing.png)
+
+<img src="images/phone_pairing.PNG" alt="The imageDrop iPhone app showing the Connect to your Mac screen, with a Scan pairing code button and a field to paste the pairing code" width="300">
 
 ### 4. Start transferring files
 
@@ -85,7 +88,7 @@ If the problem persists, contact our support team.
 
 Need additional help? We would be happy to hear from you.
 
-**Email:** [YOUR SUPPORT EMAIL]
+**Email:** wenhao.lin@gmail.com
 
 When contacting support, please include:
 

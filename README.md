@@ -68,9 +68,12 @@ Please check the following:
 Transferred files are grouped by batch and saved in the uploads folder configured by imageDrop Bridge. There are two ways to open a batch's folder:
 
 - **From the menu bar:** choose **Open Uploads Folder** from the imageDrop Bridge menu.
+
+    <img src="images/open_uploads.png" alt="The imageDrop Bridge menu in the macOS menu bar, with Open Uploads Folder highlighted" width="320">
+
 - **From the Batches page:** select **Open** on the row of the batch you want.
 
-![The imageDrop Bridge Admin Batches page, listing each received batch with its file count, size and date, and an Open button on every row](images/open_batch.png)
+    ![The imageDrop Bridge Admin Batches page, listing each received batch with its file count, size and date, and an Open button on every row](images/open_batch.png)
 
 ### Is an internet connection required?
 

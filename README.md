@@ -53,10 +53,6 @@ imageDrop Bridge is the macOS companion application. It runs in the menu bar and
 
 Yes. The macOS companion application is required to receive files on your Mac.
 
-### How do I pair my iPhone with my Mac?
-
-Open imageDrop Bridge from the macOS menu bar and select **Pair iPhone**. Follow the instructions shown on both devices.
-
 ### Why can't my iPhone connect to my Mac?
 
 Please check the following:
@@ -70,6 +66,8 @@ Please check the following:
 ### Where are my transferred files stored?
 
 Transferred files are saved in the uploads folder configured by imageDrop Bridge. You can select **Open Uploads Folder** from its menu to access the folder.
+
+![The imageDrop Bridge Admin Batches page, listing each received batch with its file count, size and date, and an Open button on every row](images/open_batch.png)
 
 ### Is an internet connection required?
 

@@ -65,7 +65,10 @@ Please check the following:
 
 ### Where are my transferred files stored?
 
-Transferred files are saved in the uploads folder configured by imageDrop Bridge. You can select **Open Uploads Folder** from its menu to access the folder.
+Transferred files are grouped by batch and saved in the uploads folder configured by imageDrop Bridge. There are two ways to open a batch's folder:
+
+- **From the menu bar:** choose **Open Uploads Folder** from the imageDrop Bridge menu.
+- **From the Batches page:** select **Open** on the row of the batch you want.
 
 ![The imageDrop Bridge Admin Batches page, listing each received batch with its file count, size and date, and an Open button on every row](images/open_batch.png)
 

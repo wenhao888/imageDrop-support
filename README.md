@@ -16,6 +16,8 @@ Download imageDrop from the Apple App Store and open the application.
 
 Install and launch imageDrop Bridge on your Mac. It runs in the macOS menu bar and provides the connection service for receiving files.
 
+![The imageDrop Bridge menu open in the macOS menu bar, showing Open Admin Page, Pair iPhone, Stop Server and Open Uploads Folder](images/mac_menubar.png)
+
 ### 3. Pair your iPhone with your Mac
 
 1. Open imageDrop Bridge from the macOS menu bar.

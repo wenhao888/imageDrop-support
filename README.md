@@ -31,6 +31,12 @@ Install and launch imageDrop Bridge on your Mac. It runs in the macOS menu bar a
 
 Once paired, you can use imageDrop on your iPhone to scan documents, capture photos, and transfer supported files to your Mac.
 
+<p>
+  <img src="images/iphone_home.PNG" alt="The imageDrop home screen on iPhone, showing the connected Mac and the Home, Camera, Upload and Mail tabs" width="265">
+  <img src="images/camera_send.PNG" alt="The Start a batch screen with an empty Batch name field and the Camera tab selected" width="265">
+  <img src="images/upload_send.PNG" alt="The Start a batch screen with a batch name entered, Delete after send switched on, and Create Batch, Files and Photos buttons" width="265">
+</p>
+
 ## Frequently Asked Questions
 
 ### What is imageDrop Bridge?

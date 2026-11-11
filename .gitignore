@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# IDE / editor config
+.idea/
+.vscode/
+
+# Freebuff workspace metadata
+.freebuff/
